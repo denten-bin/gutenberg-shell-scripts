@@ -1,7 +1,7 @@
 #!/bin/sh
 
-# This script will remove !!!MOST!!! Gutenberg heads and tails for every file in the
-# current directory and place them in a new directory.
+# A rudimentary script that attempts to remove Gutenberg heads and tails for
+# every file in the current directory and place them in a new directory.
 
 newdir='chop-head-tail'
 
