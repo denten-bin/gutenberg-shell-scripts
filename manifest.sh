@@ -12,24 +12,26 @@ echo "file_name, title, author, language" > MANIFEST.csv
 for f in *.txt
 do
 
-    # file name, -n for no carriage
-    echo -n $f', ' >> MANIFEST.csv
-
-    # append title
     # Title: War and Peace
     # Cut at the colon, return second term, cut initial space, remove punct & carriage
-    title=$(grep "Title:" $f | cut -d':' -f2- | sed -e 's/ //' | tr -d \
+    title=$(grep "Title:" "$f" | cut -d':' -f2- | sed -e 's/ //' | tr -d \
     "[:punct:]" | tr -d '\r' )
 
-    author=$(grep "Author:" $f | cut -d':' -f2- | sed -e 's/ //' | tr -d \
+    author=$(grep "Author:" "$f" | cut -d':' -f2- | sed -e 's/ //' | tr -d \
     "[:punct:]" | tr -d '\r' )
 
-    lang=$(grep "Language:" $f | cut -d':' -f2- | sed -e 's/ //' | tr -d \
+    lang=$(grep "Language:" "$f" | cut -d':' -f2- | sed -e 's/ //' | tr -d \
     "[:punct:]" | tr -d '\r' )
 
-    echo -n $title', ' >> MANIFEST.csv
-    echo -n $author', ' >> MANIFEST.csv
-    echo $lang >> MANIFEST.csv
+    # %s for no carriage
+    # printf is more portable than echo
+    # redirect once with grouping
+    {
+        printf "%s" "$f"', '
+        printf "%s" "$title"', '
+        printf "%s" "$author"', '
+        echo "$lang"
+    } >> MANIFEST.csv
 
 done
 
