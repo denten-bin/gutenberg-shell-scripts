@@ -2,10 +2,10 @@
 
 # This script will iterate over all files in the current directory to create a
 # manifest of documents using the gutenberg.org meta data fields. These
-# include file name, title, author, language, and encoding. The output is in
-# .csv format.
+# include file name, title, author, and language. The output is in .csv
+# format.
 
-# write first line to manifest file
+# write first line to new manifest file
 echo "file_name, title, author, language" > MANIFEST.csv
 
 # loop through all .txt files in folder
