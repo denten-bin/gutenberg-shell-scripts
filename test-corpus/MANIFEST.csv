@@ -1,65 +1,66 @@
-file_name, title, author, language, encoding
-105.txt
-122-0.txt
-1310-0.txt
-1342-0.txt
-141.txt
-1424-0.txt
-1480-0.txt
-155-0.txt
-158-0.txt
-1709-0.txt
-244-0.txt
-2511-0.txt
-2833-0.txt
-2834-0.txt
-3067-0.txt
-3322-0.txt
-3760-0.txt
-4307-0.txt
-4412-0.txt
-471-0.txt
-48020.txt
-48021.txt
-48022.txt
-507-0.txt
-580-0.txt
-5998-0.txt
-6688-0.txt
-6944-0.txt
-7265-0.txt
-766-0.txt
-7735-0.txt
-8954.txt
-9455-0.txt
-963-0.txt
-969-0.txt
-pg1023.txt
-pg110.txt
-pg1260.txt
-pg145.txt
-pg153.txt
-pg16215.txt
-pg1684.txt
-pg174.txt
-pg18000.txt
-pg2097.txt
-pg2153.txt
-pg24210.txt
-pg2496.txt
-pg29452.txt
-pg30059.txt
-pg3166.txt
-pg3409.txt
-pg345.txt
-pg42.txt
-pg4276.txt
-pg432.txt
-pg5231.txt
-pg583.txt
-pg599.txt
-pg730.txt
-pg7469.txt
-pg768.txt
-pg8374.txt
-pg9182.txt
+file_name, title, author, language
+105.txt, Persuasion, Jane Austen, English
+106.txt, , TESTING, English
+122-0.txt, Return of the Native, Thomas Hardy, English
+1310-0.txt, Annals of the Parish, John Galt, English
+1342-0.txt, Pride and Prejudice, Jane Austen, English
+141.txt, Mansfield Park, Jane Austen, English
+1424-0.txt, Castle Rackrent, Maria Edgeworth, English
+1480-0.txt, Tom Brown’s Schooldays, Thomas Hughes, English
+155-0.txt, The Moonstone, Wilkie Collins, English
+158-0.txt, Emma, Jane Austen, English
+1709-0.txt, New Grub Street, George Gissing, English
+244-0.txt, A Study In Scarlet, Arthur Conan Doyle, English
+2511-0.txt, The History of Henry Esmond Esq, W M Thackeray, English
+2833-0.txt, The Portrait of a Lady, Henry James, English
+2834-0.txt, The Portrait of a Lady, Henry James, English
+3067-0.txt, Hard Cash, Charles Reade, English
+3322-0.txt, East Lynne, Mrs Henry Wood, English
+3760-0.txt, Sybil, Benjamin Disraeli, English
+4307-0.txt, In the Year of Jubilee, George Gissing, English
+4412-0.txt, The Ordeal of Richard Feverel Complete, George Meredith, English
+471-0.txt, Bride of Lammermoor, Sir Walter Scott, English
+48020.txt, Aurora Floyd Vol I of 3, M E Mary Elizabeth Braddon, English
+48021.txt, Aurora Floyd Vol II of 3, M E Mary Elizabeth Braddon, English
+48022.txt, Aurora Floyd Vol III of 3, M E Mary Elizabeth Braddon, English
+507-0.txt, Adam Bede, George Eliot, English
+580-0.txt, The Pickwick Papers, Charles Dickens, English
+5998-0.txt, Waverley Or ‘Tis Sixty Years Hence Complete, Sir Walter Scott, English
+6688-0.txt, The Mill on the Floss, George Eliot, English
+6944-0.txt, The Heart of MidLothian Complete Illustrated, Sir Walter Scott, English
+7265-0.txt, The History of Pendennis, William Makepeace Thackeray, English
+766-0.txt, David Copperfield, Charles Dickens, English
+7735-0.txt, Paul Clifford Complete, Edward BulwerLytton, English
+8954.txt, Lady Audleys Secret, Mary Elizabeth Braddon, English
+9455-0.txt, Tales And Novels Volume 3 of 10, Maria Edgeworth, English
+963-0.txt, Little Dorrit, Charles Dickens, English
+969-0.txt, The Tenant of Wildfell Hall, Anne Bronte, English
+pg1023.txt, Bleak House, Charles Dickens, English
+pg110.txt, Tess of the dUrbervilles, Thomas Hardy, English
+pg1260.txt, Jane Eyre, Charlotte Bronte, English
+pg145.txt, Middlemarch, George Eliot, English
+pg153.txt, Jude the Obscure, Thomas Hardy, English
+pg16215.txt, Jack Sheppard, William Harrison Ainsworth, English
+pg1684.txt, The Egoist, George Meredith, English
+pg174.txt, The Picture of Dorian Gray, Oscar Wilde, English
+pg18000.txt, Phineas Finn, Anthony Trollope, English
+pg2097.txt, The Sign of the Four, Arthur Conan Doyle, English
+pg2153.txt, Mary Barton, Elizabeth Cleghorn Gaskell, English
+pg24210.txt, Deerbrook, Harriet Martineau, English
+pg2496.txt, Our Village, Mary Russell Mitford, English
+pg29452.txt, The Wings of the Dove Volume 1 of 2, Henry James, English
+pg30059.txt, The Wings of the Dove Volume II, Henry James, English
+pg3166.txt, Doctor Thorne, Anthony Trollope, English
+pg3409.txt, Barchester Towers, Anthony Trollope, English
+pg345.txt, Dracula, Bram Stoker, English
+pg42.txt, Dr Jekyll and Mr Hyde, Robert Louis Stevenson, English
+pg4276.txt, North and South, Elizabeth Cleghorn Gaskell, English
+pg432.txt, The Ambassadors, Henry James, English
+pg5231.txt, The Way We Live Now, Anthony Trollope, English
+pg583.txt, The Woman in White, Wilkie Collins, English
+pg599.txt, Vanity Fair, William Makepeace Thackeray, English
+pg730.txt, Oliver Twist, Charles Dickens, English
+pg7469.txt, Daniel Deronda, George Eliot, English
+pg768.txt, Wuthering Heights, Emily Bronte, English
+pg8374.txt, Alton Locke Tailor And Poet, Charles Kingsley, English
+pg9182.txt, Villette, Charlotte Brontë, English
