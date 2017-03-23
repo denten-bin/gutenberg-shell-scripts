@@ -1,12 +1,10 @@
-#!/bin/sh
+# !/bin/sh -eu
 
 # "set -e" is short for "set -o errexit", that is, abort the script if a
 # command returns with a non-zero exit code.
 
 # "set -u" is short for "set -o nounset", that is, abort the script if a
 # variable name is dereferenced when the variable hasn't been set.ty
-
-set -eu
 
 # This script will iterate over all files in the current directory to create a
 # manifest of documents using the gutenberg.org meta data fields. These
